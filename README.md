@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Elian Eliezer
+Matricula: 705678
 
 ## Tela de inspeção com navegador
-
+![página](./prints/print-pagina.png)
 
 ## Tela de projeto no Replit
-
+![replit](./prints/print-replit.png)
